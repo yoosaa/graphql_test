@@ -1,0 +1,17 @@
+{
+  "name": "graphql_test",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.7.2",
+    "knex": "^0.95.14",
+    "mysql2": "^2.3.3",
+    "objection": "^3.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
